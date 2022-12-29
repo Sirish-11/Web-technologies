@@ -1,24 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap");
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
 * {
 background-color:rgb(236, 167, 97);
-  }
-  .title{
-    padding: 50px;
-    text-align: center;
+}
+.title{
+padding: 50px;
+text-align: center;
 }
 .container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 300px;
 }
 .name{
-    padding: 20px;
-}
-.date{
-    padding: 20px;
+padding: 20px;
 }
