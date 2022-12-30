@@ -6,19 +6,22 @@
   }
 * {
 background-color:rgb(236, 167, 97);
+display: flex;
   }
+
   .title{
     padding: 50px;
     text-align: center;
 }
-.container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.first{
+  text-align: center;
 }
-.name{
-    padding: 20px;
+.second{
+  text-align: left;
 }
 .date{
     padding: 20px;
+}
+.third{
+  text-align: right;
 }
